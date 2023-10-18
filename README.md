@@ -1,16 +1,16 @@
 ![logofinal](https://user-images.githubusercontent.com/73026322/187844195-17b0fd44-a2b0-4c5c-94c9-c72ff1006930.png)<br></br>
 # Asaan4Kissan
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Inspiration 🧑🏻‍💻<br>
-By looking at the UN sustainable development goals for reducing HUNGER, reducing POVERTY, and focusing on RESPONSIBLE CONSUMPTION & PRODUCTION.Our app is a platform that will facilitate the local farmers to monitor their cultivation, examine the weather and check the health of their crops all at one place.<br>
+# Inspiration 🧑🏻‍💻
+By looking at the UN sustainable development goals for reducing HUNGER, reducing POVERTY, and focusing on RESPONSIBLE CONSUMPTION & PRODUCTION. Our app is a platform that will facilitate local farmers to monitor their cultivation, examine the weather, and check the health of their crops all in one place.<br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# About Us ℹ️<br>
-As a part of the ASDI Hackathon, we the team of Asaan4Kissan have come up with a sustainable solution for the farmers. The UN's sustainable development goal of good health and well being and also of responsible consumption and production is something that we are trying to accomplish through our project. Our app has features that would comply with the final aim of the sustainable data initiative and minimize the cost and time required to acquire and analyze large sustainability datasets. <br>
+# About Us ℹ️
+As a part of the ASDI Hackathon, we the team of Asaan4Kissan have come up with a sustainable solution for the farmers. The UN's sustainable development goal of good health and well-being and also of responsible consumption and production is something that we are trying to accomplish through our project. Our app has features that would comply with the final aim of the sustainable data initiative and minimize the cost and time required to acquire and analyze large sustainability datasets. <br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# About the app ℹ️ 📱<br>
-Our app is a platform that will facilitate the local farmers to monitor their cultivation, examine the weather and check the health of their crops all at one place.<br>
+# About the app ℹ️ 📱
+Our app is a platform that will facilitate local farmers to monitor their cultivation, examine the weather, and check the health of their crops all at one place.<br>
 Functionality of the app:<br>
 * Weather forecast<br>
 * CropCam - your crop doctor<br>
@@ -26,9 +26,9 @@ Functionality of the app:<br>
 * ![WhatsApp Image 2022-08-31 at 1 06 10 AM](https://user-images.githubusercontent.com/96763019/187528496-7db2400a-9563-43fb-b034-fd41517ac954.jpeg)<br>
 * This consists of four facilities:-<br>
 1) Helps in satellite imagery of farms.<br>
-2) Gives the update about the weather based on your location.<br>
+2) Give an update about the weather based on your location.<br>
 3) Used for predicting the disease based on the leaf image. <br>
-4) It is an emergency call feature which can be used during natural calamities or any other pandemic.<br>
+4) It is an emergency call feature that can be used during natural calamities or any other pandemic.<br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # CropView<br>
@@ -65,9 +65,9 @@ Development of the application:<br></br>
 * Java - backend<br></br>
 * XML - frontend<br></br>
 
-* Digifarm dataset is used in order to integrate ASDI in our project.<br></br>
+* The Digifarm dataset is used in order to integrate ASDI in our project.<br></br>
 
-* The image classification machine learning model is used with the help of tensorflow to establish our CropCam feature.<br></br>
+* The image classification machine learning model is used with the help of TensorFlow to establish our CropCam feature.<br></br>
 
 * (https://tfhub.dev/rishit-dagli/plant-disease/1)<br></br>
 
